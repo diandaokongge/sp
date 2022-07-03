@@ -1,5 +1,10 @@
 # 颠倒空格刷屏器
-## 本软件叫作“颠倒空格一号刷屏器”，用[易语言](http://www.dywt.com.cn/)编写，软件下载地址可以是当前仓库的release，也可以从[这里](https://diandaokongge.github.io/sp/%E9%A2%A0%E5%80%92%E7%A9%BA%E6%A0%BC%E4%B8%80%E5%8F%B7%E5%88%B7%E5%B1%8F%E5%99%A8V1.3h1.exe)下载精简版，也可以从[这里](https://diandaokongge.github.io/sp/%E9%A2%A0%E5%80%92%E7%A9%BA%E6%A0%BC%E4%B8%80%E5%8F%B7%E5%88%B7%E5%B1%8F%E5%99%A8V1.3h2.exe)下载完全版。但是只有release有源代码。当前为1.3版本，更新记录在[这里](https://diandaokongge.github.io/sp/update.md)，之前的版本具有很多bug，所以若有需要，请联系ddkgsite@gmail.com索要之前的版本。
+## 本软件叫作“颠倒空格一号刷屏器”，用[易语言](http://www.dywt.com.cn/)编写。
+
+### 可以从[这里](https://diandaokongge.github.io/sp/1.3.exe)下载1.3（精简版）。
+### 也可以从[这里](https://diandaokongge.github.io/sp/2.1.exe)下载2.1完全版。
+### 还有2.1.1版本。2.1.1版本为了伪装，去除刷屏二字，改为发送，在[这里](https://diandaokongge.github.io/sp/2.1.1.exe)下载当前为2.1版本，更新记录在[这里](https://diandaokongge.github.io/sp/update.md)，之前的版本具有很多bug，所以若有需要，请联系ddkgsite@gmail.com索要之前的版本。
+### 这些软件是开源的。开源在本仓库。这些软件使用MIT LICENSE。本仓库的release也可以下载。代码只有release有。
 
 
 <script type="text/javascript" src="busuanzi.js"></script>    
