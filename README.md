@@ -3,7 +3,7 @@
 
 ## 2.2版本：2024.4.27
 ## 开发高级模式——循环刷屏（最高４条）；修复若干bug；进行UI的大改。
-## 下载：[https://github.com/diandaokongge/sp/2.2.exe](https://github.com/diandaokongge/sp/2.2.exe)
+## 下载：[https://github.com/diandaokongge/sp/releases/download/v2/V2.2.exe](https://github.com/diandaokongge/sp/releases/download/v2/V2.2.exe)
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
